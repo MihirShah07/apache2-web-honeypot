@@ -1,0 +1,34 @@
+{
+    "coreSkills": [
+      {
+        "icon": "fas fa-user-secret",
+        "title": "Ethical Hacking",
+        "description": "Conducting authorized simulated cyberattacks on computer systems to identify and fix security vulnerabilities before malicious actors can exploit them."
+      },
+      {
+        "icon": "fas fa-network-wired",
+        "title": "Network Security",
+        "description": "Implementing policies and controls to protect network infrastructure, including firewalls, IDS/IPS, VPNs, and secure network architecture design."
+      },
+      {
+        "icon": "fas fa-lock",
+        "title": "Encryption",
+        "description": "Expertise in cryptographic protocols, key management, and implementing encryption solutions to protect sensitive data both at rest and in transit."
+      },
+      {
+        "icon": "fas fa-bug",
+        "title": "Vulnerability Assessment",
+        "description": "Systematically identifying, classifying, and prioritizing vulnerabilities in systems, applications, and network infrastructure."
+      },
+      {
+        "icon": "fas fa-cloud",
+        "title": "Cloud Security",
+        "description": "Securing cloud environments (AWS, Azure, GCP) through proper configuration, monitoring, access controls, and compliance with security best practices."
+      },
+      {
+        "icon": "fas fa-code",
+        "title": "Secure Coding",
+        "description": "Application security testing, code reviews, and implementing secure coding practices to prevent common vulnerabilities like XSS, CSRF, and SQL injection."
+      }
+    ]
+  }

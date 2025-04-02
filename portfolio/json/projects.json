@@ -1,0 +1,61 @@
+{
+    "projects": [
+      {
+        "image": "/api/placeholder/400/200",
+        "alt": "Network Security Monitoring System",
+        "title": "Network Security Monitoring System",
+        "description": "Designed and implemented a comprehensive network security monitoring system using open-source tools to detect and alert on suspicious network activities.",
+        "technologies": ["Zeek", "Suricata", "ELK Stack", "Python"],
+        "links": [
+          {
+            "url": "#",
+            "title": "GitHub",
+            "icon": "fab fa-github"
+          },
+          {
+            "url": "#",
+            "title": "External Link",
+            "icon": "fas fa-external-link-alt"
+          }
+        ]
+      },
+      {
+        "image": "/api/placeholder/400/200",
+        "alt": "Automated Vulnerability Scanner",
+        "title": "Automated Vulnerability Scanner",
+        "description": "Developed a customized vulnerability scanning tool that automates the process of identifying security weaknesses in web applications.",
+        "technologies": ["Python", "OWASP ZAP", "Docker", "REST API"],
+        "links": [
+          {
+            "url": "#",
+            "title": "GitHub",
+            "icon": "fab fa-github"
+          },
+          {
+            "url": "#",
+            "title": "External Link",
+            "icon": "fas fa-external-link-alt"
+          }
+        ]
+      },
+      {
+        "image": "/api/placeholder/400/200",
+        "alt": "Secure File Sharing System",
+        "title": "Secure File Sharing System",
+        "description": "Created a secure file sharing system with end-to-end encryption, multi-factor authentication, and comprehensive audit logging capabilities.",
+        "technologies": ["NodeJS", "React", "AWS S3", "JWT"],
+        "links": [
+          {
+            "url": "#",
+            "title": "GitHub",
+            "icon": "fab fa-github"
+          },
+          {
+            "url": "#",
+            "title": "External Link", 
+            "icon": "fas fa-external-link-alt"
+          }
+        ]
+      }
+    ]
+  }

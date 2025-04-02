@@ -1,0 +1,76 @@
+{
+    "skillCategories": [
+      {
+        "name": "Security Assessment",
+        "position": "left",
+        "skills": [
+          {
+            "name": "Penetration Testing",
+            "percentage": 95
+          },
+          {
+            "name": "Vulnerability Assessment",
+            "percentage": 90
+          },
+          {
+            "name": "Social Engineering",
+            "percentage": 85
+          }
+        ]
+      },
+      {
+        "name": "Network Security",
+        "position": "left",
+        "skills": [
+          {
+            "name": "Firewall Management",
+            "percentage": 90
+          },
+          {
+            "name": "IDS/IPS Configuration",
+            "percentage": 85
+          },
+          {
+            "name": "VPN Implementation",
+            "percentage": 80
+          }
+        ]
+      },
+      {
+        "name": "Cloud Security",
+        "position": "right",
+        "skills": [
+          {
+            "name": "AWS Security",
+            "percentage": 90
+          },
+          {
+            "name": "Azure Security",
+            "percentage": 85
+          },
+          {
+            "name": "GCP Security",
+            "percentage": 75
+          }
+        ]
+      },
+      {
+        "name": "Technical Skills",
+        "position": "right",
+        "skills": [
+          {
+            "name": "Python",
+            "percentage": 90
+          },
+          {
+            "name": "Bash Scripting",
+            "percentage": 85
+          },
+          {
+            "name": "SIEM Tools",
+            "percentage": 80
+          }
+        ]
+      }
+    ]
+  }

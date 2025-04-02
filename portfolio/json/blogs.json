@@ -1,0 +1,28 @@
+{
+    "blogs": [
+      {
+        "image": "/api/placeholder/400/200",
+        "alt": "Securing Cloud Infrastructure",
+        "date": "March 1, 2025",
+        "title": "Securing Cloud Infrastructure: Best Practices for AWS",
+        "excerpt": "Learn about the essential security practices every organization should implement when using AWS cloud services, from IAM policies to network security groups.",
+        "url": "#"
+      },
+      {
+        "image": "/api/placeholder/400/200",
+        "alt": "Zero Trust Security",
+        "date": "February 15, 2025",
+        "title": "Zero Trust Security: Beyond the Perimeter",
+        "excerpt": "Explore how the zero trust security model is transforming enterprise security by eliminating the traditional network perimeter and implementing strict verification.",
+        "url": "#"
+      },
+      {
+        "image": "/api/placeholder/400/200",
+        "alt": "Ransomware Prevention",
+        "date": "January 28, 2025",
+        "title": "Ransomware Prevention: A Comprehensive Guide",
+        "excerpt": "Discover effective strategies to protect your organization from ransomware attacks, including backup solutions, user training, and technical controls.",
+        "url": "#"
+      }
+    ]
+  }

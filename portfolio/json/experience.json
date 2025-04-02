@@ -1,0 +1,43 @@
+{
+    "jobs": [
+      {
+        "id": "job1",
+        "company": "CyberDefense Inc",
+        "title": "Senior Security Engineer",
+        "duration": "January 2021 - Present",
+        "responsibilities": [
+          "Lead security assessments for enterprise clients, including vulnerability scanning, penetration testing, and security architecture reviews.",
+          "Designed and implemented a security operations center (SOC) that reduced incident response time by 60%.",
+          "Developed automated security tools and scripts to enhance the efficiency of routine security tasks.",
+          "Conducted security awareness training for over 500 employees, resulting in a 75% reduction in successful phishing attempts.",
+          "Collaborated with cross-functional teams to integrate security controls into the development lifecycle."
+        ]
+      },
+      {
+        "id": "job2",
+        "company": "SecureNet Corp",
+        "title": "Cybersecurity Analyst",
+        "duration": "March 2018 - December 2020",
+        "responsibilities": [
+          "Performed daily security monitoring and incident response activities.",
+          "Conducted vulnerability assessments and provided remediation recommendations.",
+          "Implemented and managed security tools, including SIEM, IDS/IPS, and endpoint protection solutions.",
+          "Developed security policies and procedures in compliance with industry standards (NIST, ISO 27001).",
+          "Created detailed reports and dashboards to communicate security posture to executive management."
+        ]
+      },
+      {
+        "id": "job3",
+        "company": "TechShield Solutions",
+        "title": "IT Security Specialist",
+        "duration": "June 2016 - February 2018",
+        "responsibilities": [
+          "Managed network security infrastructure, including firewalls, VPNs, and access control systems.",
+          "Conducted security assessments and audits to ensure compliance with regulatory requirements.",
+          "Responded to security incidents and performed root cause analysis.",
+          "Implemented multi-factor authentication across all company systems.",
+          "Collaborated with IT teams to ensure security best practices were followed."
+        ]
+      }
+    ]
+  }
